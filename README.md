@@ -8,5 +8,6 @@ or download project .zip file
 
 #Run the app
 Open Browsers and enter http://localhost/student_forum/
+Click login.php and enjoys!!!!
 
 ```
