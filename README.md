@@ -2,13 +2,11 @@
 ```bash
 # Clone this repository
 $ git clone https://github.com/baole17/student_forum
+or download project .zip file
 
-# Go into the repository
-$ cd University_Mgz
+#Copy project directory into C:\xampp\htdocs
 
-# Install dependencies
-$ npm install
+#Run the app
+Open Browsers and enter http://localhost/student_forum/
 
-# Run the app
-$ npm start
 ```
